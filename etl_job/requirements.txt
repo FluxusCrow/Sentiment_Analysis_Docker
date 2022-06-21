@@ -1,0 +1,5 @@
+sqlalchemy
+pymongo
+psycopg2
+vaderSentiment
+regex
